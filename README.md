@@ -1,2 +1,2 @@
-# Blog
+# Blog Application - Initial Attempt
 This is django based on blog application which is under development...
